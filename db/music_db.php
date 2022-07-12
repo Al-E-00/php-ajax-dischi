@@ -2,7 +2,7 @@
 /* database with all the different music albums */
 $data = [
     [
-        'poster' => 'https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg',
+        'poster' => 'https://i.discogs.com/5BGtJI-xD-tEuIyH97WSrg0nH61Uujd6NuuTEtSxJfI/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODk1/MDYtMTQ4MDQ4NzQw/OS0yMzU1LmpwZWc.jpeg',
         'title' => 'New Jersey',
         'author' => 'Bon Jovi',
         'genre' => 'Rock',
