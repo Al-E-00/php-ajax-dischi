@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . "/db/music_db.php";
+require __DIR__ . "/../db/music_db.php";
 
 header('Content-Type: application/json');
 
