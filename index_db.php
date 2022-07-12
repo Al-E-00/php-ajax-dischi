@@ -26,9 +26,11 @@
                 <?php include 'sections/the_header.php' ?>
             </div>
         </div>
-        <div class="row">
-            <div class="col main-section">
-                <?php include 'sections/main.php' ?>
+        <div class="container custom-container">
+            <div class="row row-cols-5">
+                <div class="col main-section">
+                    <?php include 'sections/main.php' ?>
+                </div>
             </div>
         </div>
     </div>

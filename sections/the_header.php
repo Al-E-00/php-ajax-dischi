@@ -1,10 +1,10 @@
 <style>
     <?php
-    include '../css/the_header.css';
+    include __DIR__ . '../css/the_header.css';
     ?>
 </style>
 
-<nav class="navbar bg-light">
+<nav class="navbar custom-background-navbar">
     <div class="container">
         <a class="navbar-brand" href="#">
             <img src="./img/spotify-logo.png" alt="spotify-logo" width="30">

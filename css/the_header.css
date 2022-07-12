@@ -1,4 +1,8 @@
-nav {
+.navbar {
     flex-grow: 1;
     flex-shrink: 0;
+}
+
+.custom-background-navbar {
+    background-color: red;
 }
