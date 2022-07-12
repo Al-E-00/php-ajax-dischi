@@ -1,6 +1,6 @@
 <style>
     <?php
-    include __DIR__ . '../css/the_header.css';
+    
     ?>
 </style>
 

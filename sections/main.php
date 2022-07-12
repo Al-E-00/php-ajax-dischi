@@ -3,13 +3,6 @@ require_once __DIR__ . '/../db/music_db.php';
 ?>
 
 
-
-<style>
-    <?php
-    include __DIR__ . '/../css/main.css';
-    ?>
-</style>
-
 <?php foreach ($data as $album) {
 ?>
     <div class="card-container-custom">

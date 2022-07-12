@@ -1,5 +1,5 @@
 <?php 
-
+    
 ?>
 
 
@@ -16,6 +16,8 @@
     <style>
         <?php
         include 'css/index.css';
+        include 'css/the_header.css';
+        include 'css/main.css';
         ?>
     </style>
 </head>
