@@ -15,7 +15,7 @@
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0-beta1/css/bootstrap.min.css' integrity='sha512-o/MhoRPVLExxZjCFVBsm17Pkztkzmh7Dp8k7/3JrtNCHh0AQ489kwpfA3dPSHzKDe8YCuEhxXq3Y71eb/o6amg==' crossorigin='anonymous'/>
     <style>
         <?php
-        include 'css/the_header.css';
+        include 'css/index.css';
         ?>
     </style>
 </head>
@@ -24,7 +24,11 @@
         <div class="row">
             <div class="col">
                 <?php include 'sections/the_header.php' ?>
-                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col main-section">
+                <?php include 'sections/main.php' ?>
             </div>
         </div>
     </div>

@@ -1,3 +1,9 @@
 .full-body-dimension {
     height: 100vh;
+    padding: 0;
+}
+
+.main-section {
+    display: flex;
+    flex-grow: 1;
 }
