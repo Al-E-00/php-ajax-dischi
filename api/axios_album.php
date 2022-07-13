@@ -7,6 +7,7 @@ $albumFilter = key_exists('genre', $_GET) ? $_GET['genre'] : "";
 
 $filteredAlbums = $data;
 
+
 if($albumFilter) {
     $filteredAlbums = array_filter($data, function ($albums) use ($albumFilter){
         return $albums["genre"] === $albumFilter;

@@ -27,6 +27,7 @@
                     <?php include 'sections/the_header.php' ?>
                 </div>
             </div>
+            <input type="text" v-model=genre @keydown.enter=filterGenre>
             <div class="container custom-container">
                 <div class="row row-cols-5">
                     <div class="col main-section">
